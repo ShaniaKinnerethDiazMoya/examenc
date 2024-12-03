@@ -3,6 +3,7 @@
 int main (){
     
     int x, i=0, y;
+    
     printf("Dame el numero que quieres utilizar");
     scanf("%d", &x);
     puts("Incremento");
